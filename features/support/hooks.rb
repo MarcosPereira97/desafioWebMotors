@@ -9,7 +9,7 @@ Before do
   page.driver.browser.manage.window.maximize
 end
 
-After do |scenario|
+After do |scenario| 
   Dir.mkdir("data") unless Dir.exist?("data")
   Dir.mkdir("report") unless Dir.exist?("report")
   sufix = ("error" if scenario.failed?) || "success"
