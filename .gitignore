@@ -1,0 +1,6 @@
+/data/report/img/
+*.html
+*.png
+*.jpg
+*.json
+*Gemfile.lock

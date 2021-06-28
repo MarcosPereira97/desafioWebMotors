@@ -1,0 +1,18 @@
+### URL ###
+
+Webmotors: "https://www.webmotors.com.br/"
+
+### Elementos ###
+
+barraPesquisa:    "//*[@id='searchBar']"
+selecionaMarca:   "//*[@id='WhiteBox']/div[1]/div[2]/div/div/div/div/div/div[1]/a"
+opcModelos:       "//*[@id='root']/main/div[1]/div[2]/div/div[1]/div[2]/div[2]/div/form/div[3]/div[2]/div[2]/div[2]"
+pesquisaModelo:   "//*[@id='root']/main/div[1]/div[2]/div/div[3]/div/div[4]/div/input"
+selecionaModelo:  "//*[@id='root']/main/div[1]/div[2]/div/div[3]/div/div[5]/a[1]"
+opcVersao:        "//*[@id='root']/main/div[1]/div[2]/div/div[1]/div[2]/div[2]/div/form/div[3]/div[2]/div[2]/div[3]"
+pesquisaVersao:   "//*[@id='root']/main/div[1]/div[2]/div/div[2]/div/div[3]/div/input"
+selecionaVersao:  "//*[@id='root']/main/div[1]/div[2]/div/div[2]/div/div[4]/a"
+anuncioCarro:     "//*[@id='root']/main/div[1]/div[3]/div[2]/div/div[1]/div/div[1]"
+linkEstoque:      "//*[@id='VehicleSellerInformationStock']/i"
+fechaModal:       "//*[@id='root']/div[4]/div[2]/div/div[3]/button"
+aguardaAnuncio:   "//*[@id='root']/main/div[1]/div[3]/div[2]/div/div[1]/div"
